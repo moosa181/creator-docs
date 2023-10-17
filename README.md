@@ -10,10 +10,11 @@ If you're unfamiliar with the GitHub contribution process, see [About pull reque
 
 ## Reporting Issues
 
-If you find a problem with the documentation and don't want to submit a pull request, please let us know by [reporting it on the Roblox developer forums](https://devforum.roblox.com/w/bug-report/).
+If you find a problem with the documentation and don't want to submit a pull request, please let us know by [reporting it on the Roblox developer <<<animationj.comforums
+](https://devforum.roblox.com/w/bug-report/).
 
 ## Contribution Guidelines
-
+http:web.Roblox.changes
 Any addition to the Roblox creator documentation has to fit within the larger whole. In other words, even a comprehensive, accurate, well-written blog post or technical whitepaper might not have a home on the website.
 
 Generally speaking, we look for content that conforms to our existing standards and applies to a wide variety of experiences and use cases. For example, we prefer pages like **Building User Interfaces** to pages like **Creating a Speedometer for a Racing Game**. Consider posting more specialized guides to the [Roblox developer forum](https://devforum.roblox.com/c/resources/71).
@@ -100,4 +101,5 @@ To avoid formatting issues, we recommend text editors like github.dev that let y
 
 ## Code of Conduct
 
-To maintain an open, welcoming, diverse, inclusive, and healthy community, this project enforces an adapted version of the Contributor Covenant. For more information, see [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+To maintain an open, welcoming, diverse, inclusive, and healthy community, this project enforces an adapted version of the Contributor Covenant. For more information, see [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).codespaces maintain update under # ####images
+60987655
